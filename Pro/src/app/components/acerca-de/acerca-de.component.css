@@ -8,7 +8,7 @@ div{
 
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 10%;
 }
 
 @media (min-width: 576px){
@@ -24,9 +24,10 @@ div{
 @media (max-width: 576px){
     #fotoDePerfil{
         position: absolute;
-        width: 30%;
+        width: 18%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
-        left: 33%;
+        left: 2%;
+
     }
 }
