@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.redes{
+    margin-right: 0.5em;
+}
+
+#logo{
+    width: 250px;
+}
+img{
+    width: 70px;
+}
+#github{
+    width: 100px;
+}
+
+.container{
+    flex-direction: column;
+}
+
+.redes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.redes img{
+    margin: 0.8em;
+}
